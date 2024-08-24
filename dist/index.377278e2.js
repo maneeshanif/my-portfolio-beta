@@ -10,5 +10,13 @@ window.addEventListener("load", ()=>{
         }, 500);
     }, 2000);
 });
+function showSidebar() {
+    const sidebar = document.body.querySelector(".sideBar");
+    sidebar.style.display = "block";
+}
+function closeSidebar() {
+    const sidebar = document.body.querySelector(".sideBar");
+    sidebar.style.display = "none";
+}
 
 //# sourceMappingURL=index.377278e2.js.map
