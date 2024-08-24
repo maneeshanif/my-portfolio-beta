@@ -1,4 +1,4 @@
-5913
+5924
 135C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133681811868669512 0
 90C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\weak-lru-cache\tests133681811849117615 1
 93C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\semver\functions\inc.js133681811853267241 0
@@ -8,7 +8,7 @@
 106C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\dom-serializer\node_modules\entities133681811852674818 1
 89C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\dotenv\package.json133681811845327464 0
 94C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\abortcontroller-polyfill133681811852564090 1
-61C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist133681820327113789 1
+61C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist133681858849882031 1
 88C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\csso\cjs\index.cjs133681811854680779 0
 87C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\has-flag\index.js133681811846686801 0
 105C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\source-map\dist\source-map.debug.js133681811854180082 0
@@ -37,7 +37,7 @@
 108C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\watcher-win32-x64\watcher.node133681811851783431 0
 122C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133681811857107194 0
 93C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\mdn-data\css\types.json133681811854798196 0
-91C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\my-portfolio-beta.3464ddca.js133681820326989654 0
+91C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\my-portfolio-beta.3464ddca.js133681858849748010 0
 146C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133681811863301603 0
 92C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\ordered-binary\LICENSE133681811845241008 0
 152C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\generate.js133681811859684666 0
@@ -75,7 +75,7 @@
 88C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\json5\lib\parse.js133681811849542665 0
 104C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\markdown-ansi\package.json133681811848704423 0
 115C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133681811865757569 0
-95C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\my-portfolio-beta.3464ddca.js.map133681820327090890 0
+95C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\my-portfolio-beta.3464ddca.js.map133681858849872027 0
 102C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\css-tree\cjs\syntax\node\Nth.cjs133681811862865070 0
 116C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\caniuse-lite\data\features\array-find-index.js133681811855740817 0
 151C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\8-restructRuleset.js133681811850436701 0
@@ -331,6 +331,7 @@
 119C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\css-select\node_modules\domutils\lib\helpers.d.ts133681811859716053 0
 78C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\get-port133681811848079963 1
 87C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\is-json\README.md133681811846706779 0
+84C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.4432701b.css.map133681820670718165 0
 121C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\caniuse-lite\data\features\css-placeholder-shown.js133681811868064841 0
 82C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\svgo\LICENSE133681811845262016 0
 119C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\ordered-binary\.nyc_output\processinfo\index.json133681811850977624 0
@@ -4345,6 +4346,7 @@
 127C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133681811879814914 0
 115C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\caniuse-lite\data\features\urlsearchparams.js133681811879844880 0
 110C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\caniuse-lite\data\features\use-strict.js133681811879864885 0
+94C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\simple-atm-machine.1773956a.jpeg133681820663295344 0
 116C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\caniuse-lite\data\features\user-select-none.js133681811879874894 0
 116C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_class_private_field_loose_base133681811868636766 1
 112C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\caniuse-lite\data\features\webtransport.js133681811880635765 0
@@ -4515,6 +4517,7 @@
 106C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\core\test\fixtures\bundle.js133681811857204583 0
 111C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_to_primitive\package.json133681811872620439 0
 118C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_to_consumable_array\package.json133681811872588689 0
+83C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.e698439d.js.map133681820670718165 0
 122C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_tagged_template_literal\package.json133681811872521677 0
 114C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133681811856984130 0
 114C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_super_prop_base\package.json133681811872465591 0
@@ -4543,7 +4546,7 @@
 107C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_defaults\package.json133681811869375404 0
 130C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_class_static_private_method_get\package.json133681811869115401 0
 124C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_class_private_method_init\package.json133681811868902794 0
-68C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\assets133681819387666449 1
+68C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\assets133681820663355325 1
 113C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\workers\src\process\ProcessChild.js133681811855609469 0
 123C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@swc\helpers\_\_class_private_method_get\package.json133681811868818219 0
 128C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\index.js133681811848785493 0
@@ -4939,6 +4942,7 @@
 101C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\transformer-css\LICENSE133681811845371042 0
 106C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\transformer-css\package.json133681811848104393 0
 97C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\transformer-css\src133681811847192342 1
+96C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\mile-to-km-convertor.2b94dcae.jpeg133681820664568107 0
 115C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\transformer-css\src\CSSTransformer.js133681811847427464 0
 99C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\transformer-babel\lib133681811853587282 1
 105C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\transformer-babel\README.md133681811854255085 0
@@ -5549,7 +5553,7 @@
 146C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic-urange.js133681811860065982 0
 137C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\index.js133681811861218197 0
 143C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\match-graph.js133681811862055926 0
-79C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\assets\CV (1).pdf133681819387656448 0
+79C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\assets\CV (1).pdf133681820663345284 0
 146C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\prepare-tokens.js133681811863861924 0
 138C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\search.js133681811864099372 0
 141C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\structure.js133681811864537335 0
@@ -5720,6 +5724,7 @@
 133C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133681811867927013 0
 117C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js133681811853729513 0
 127C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json133681811867675083 0
+84C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\about-img.feab9ce7.png133681820665413571 0
 124C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133681811867651044 0
 132C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133681811867571115 0
 133C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133681811867513774 0
@@ -5904,11 +5909,17 @@
 101C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\node_modules\.bin\update-browserslist-db.cmd133681811883568039 0
 84C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\about-img.d969b3bc.png133681819387119195 0
 94C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\currency-convertor.1c8d960f.jpeg133681819387109226 0
+94C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\currency-convertor.76045f5a.jpeg133681820665413571 0
 79C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.377278e2.js133681819387189226 0
+80C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.4432701b.css133681820670668149 0
 80C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.b2625c6b.css133681819387275509 0
-72C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.html133681819387899185 0
+79C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.e698439d.js133681820670678181 0
+72C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\index.html133681820670678181 0
+78C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\man.35ae07d2.png133681820661488301 0
 96C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\mile-to-km-convertor.a7dfae6c.jpeg133681819387045075 0
+91C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\number-guessing.dbfccba0.jpeg133681820661468303 0
 94C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\profile.pic_prev_ui.2bec54e0.png133681819386983460 0
+94C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\dist\profile.pic_prev_ui.e65f0707.png133681820664568107 0
 70C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\css\style.css133681813280770456 0
 77C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\assets\about-img.png133678019942038454 0
 84C:\Users\USER\Desktop\web code\.vscode\my-portfolio-beta\assets\number-guessing.jpeg133681053265716674 0
