@@ -14,10 +14,7 @@ window.addEventListener("load", () => {
 });
 
 
-function showSidebar() {
-    const sidebar = document.body.querySelector(".sideBar") as HTMLElement ;
-    sidebar.style.display = "block";
-  }
+
 
   function closeSidebar() {
     const sidebar = document.body.querySelector(".sideBar") as HTMLElement;
