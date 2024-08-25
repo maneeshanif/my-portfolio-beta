@@ -10,9 +10,5 @@ window.addEventListener("load", ()=>{
         }, 500);
     }, 2000);
 });
-function closeSidebar() {
-    const sidebar = document.body.querySelector(".sideBar");
-    sidebar.style.display = "none";
-}
 
 //# sourceMappingURL=index.377278e2.js.map

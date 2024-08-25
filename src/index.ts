@@ -16,7 +16,3 @@ window.addEventListener("load", () => {
 
 
 
-  function closeSidebar() {
-    const sidebar = document.body.querySelector(".sideBar") as HTMLElement;
-    sidebar.style.display = "none";
-  }
