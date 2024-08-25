@@ -720,33 +720,85 @@ footer .social a {
     height: 100%;
   }
 
-  .about {
+  .about-content {
+    width: 100%;
     height: auto;
+  }
+
+  .about-img {
+    width: 100%;
+    height: auto;
+    padding-left: 0;
+    top: 2rem;
+    left: 3rem;
+  }
+
+  .about-content .about-discription p {
+    width: 100%;
+    height: auto;
+    margin-left: 5px;
+    font-size: 15px;
+    top: -190px;
+  }
+
+  #btn-2 {
+    width: 4rem;
+    margin-right: 10px;
+  }
+
+  .heading #s1, #s2 {
+    margin-top: -40px;
+    font-size: 50px;
+  }
+
+  header .heading span {
+    font-size: 50px;
+  }
+
+  .srt-intro p {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 120px;
+    margin-left: -10px;
+    font-size: 10px;
+  }
+}
+
+@media (width <= 760px) {
+  .about {
+    height: 120vh;
     top: 10px;
   }
 
   .about-img {
-    width: 12rem;
-    height: 21rem;
-    margin-left: -7rem;
+    width: 19rem;
+    height: 27rem;
+    margin-left: -2rem;
   }
 
   .about-discription p {
     width: 19rem;
     height: 10rem;
-    margin-left: 80px;
+    margin-left: 100px;
     font-size: 1.6rem;
     top: -150px;
   }
 
   .about-img img {
     width: 90%;
-    height: 60%;
+    height: 90%;
   }
 
-  .about-content img {
-    width: auto;
-    height: auto;
+  .about #btn-2 {
+    width: 8rem;
+    height: 45px;
+    margin-top: 12px;
+    margin-right: 10rem;
+  }
+
+  .a-img-bg {
+    width: 90%;
+    height: 90%;
   }
 }
 
@@ -773,7 +825,7 @@ footer .social a {
 
 @media (width <= 480px) {
   .email h3 {
-    font-size: 18px;
+    font-size: 10px;
   }
 }
 
@@ -814,6 +866,12 @@ footer .social a {
   .prj-more button {
     width: 90px;
     height: 90px;
+  }
+
+  .card {
+    width: 70%;
+    height: 70%;
+    margin: 10px;
   }
 }
 
@@ -898,43 +956,5 @@ footer .copyright {
   width: auto;
   height: 3rem;
   padding: 40px;
-}
-
-@media (width <= 760px) {
-  .about {
-    height: 120vh;
-    top: 10px;
-  }
-
-  .about-img {
-    width: 19rem;
-    height: 27rem;
-    margin-left: -2rem;
-  }
-
-  .about-discription p {
-    width: 19rem;
-    height: 10rem;
-    margin-left: 100px;
-    font-size: 1.6rem;
-    top: -150px;
-  }
-
-  .about-img img {
-    width: 90%;
-    height: 90%;
-  }
-
-  .about #btn-2 {
-    width: 8rem;
-    height: 45px;
-    margin-top: 12px;
-    margin-right: 10rem;
-  }
-
-  .a-img-bg {
-    width: 90%;
-    height: 90%;
-  }
 }
 /*# sourceMappingURL=index.b2625c6b.css.map */

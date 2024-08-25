@@ -727,6 +727,7 @@ footer .copyright {
 /* media */
 
 @media (max-width: 1200px) {
+ 
   .heading #s1,
   #s2 {
     font-size: 60px;
@@ -764,32 +765,96 @@ footer .copyright {
     height: 100%;
     width: 100%;
   }
+  .about-content {
+    height: auto;
+    /* width: 100%; */
+  }
+ 
+
+
+  .about-img {
+    width: 100%;
+    height: auto;
+    left: 3rem;
+    top: 2rem;
+    padding-left: 0;
+  }
+
+   .about-content .about-discription p {
+    margin-right: 2px;
+    font-size: 1rem;
+    width: 15rem;
+    height: 2rem;
+    top: -190px;
+  }
+
+ 
+
+  #btn-2 {
+    width: 4rem;
+    margin-right: 10px;
+  }
+
+
+
+  .heading #s1,
+  #s2 {
+    font-size: 50px;
+    /* line-height: 3; */
+    margin-top: -40px;
+  }
+   header .heading span {
+    font-size: 50px;
+  }
+  .srt-intro p {
+    font-size: 10px;
+    margin-bottom: 120px;
+
+    width: 120px;
+    height: 120px;
+    margin-left: -10px;
+  }
+
+}
+
+
+
+
+
+@media (max-width: 760px) {
   .about {
     top: 10px;
+    /* height: 120vh; */
     height: auto;
   }
   .about-img {
-    margin-left: -7rem;
-    height: 21rem;
-    width: 12rem;
+    margin-left: 2rem;
+    height: 27rem;
+    width: 19rem;
+    left:2px
   }
   .about-discription p {
-    top: -150px;
-    width: 19rem;
-    height: 10rem;
-    margin-left: 80px;
-    font-size: 1.6rem;
+    top: -8rem;
+    width: 18rem;
+    height: 8rem;
+    margin-left: 2rem;
+    font-size: 1.4rem;
   }
   .about-img img {
-    height: 60%;
+    height: 90%;
     width: 90%;
   }
-
-  .about-content img{
-    height: auto;
-    width: auto;
+  .about #btn-2 {
+    margin-top: 12px;
+    margin-right: 10rem;
+    height: 45px;
+    width: 8rem;
   }
 
+  .a-img-bg {
+    height: 90%;
+    width: 90%;
+  }
 }
 
 @media (max-width: 1200px) {
@@ -815,8 +880,12 @@ footer .copyright {
 
 @media (max-width: 480px) {
   .email h3 {
-    font-size: 18px;
+    font-size: 10px;
   }
+
+
+
+  
 }
 
 @media (max-width: 1200px) {
@@ -856,6 +925,12 @@ footer .copyright {
   .prj-more button {
     height: 90px;
     width: 90px;
+  }
+
+  .card {
+    margin: 10px;
+    width: 70%;
+    height: 70%;
   }
 }
 
@@ -939,38 +1014,4 @@ footer .copyright {
   width: auto;
   background-color: black;
   padding: 40px;
-}
-
-@media (max-width: 760px) {
-  .about {
-    top: 10px;
-    height: 120vh;
-  }
-  .about-img {
-    margin-left: -2rem;
-    height: 27rem;
-    width: 19rem;
-  }
-  .about-discription p {
-    top: -150px;
-    width: 19rem;
-    height: 10rem;
-    margin-left: 100px;
-    font-size: 1.6rem;
-  }
-  .about-img img {
-    height: 90%;
-    width: 90%;
-  }
-  .about #btn-2 {
-    margin-top: 12px;
-    margin-right: 10rem;
-    height: 45px;
-    width: 8rem;
-  }
-
-  .a-img-bg {
-    height: 90%;
-    width: 90%;
-  }
 }
